@@ -1,0 +1,12 @@
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/obj/Debug/netstandard2.0/AnimatedImage.csprojAssemblyReference.cache
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/obj/Debug/netstandard2.0/AnimatedImage.AssemblyInfoInputs.cache
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/obj/Debug/netstandard2.0/AnimatedImage.AssemblyInfo.cs
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/bin/Debug/netstandard2.0/AnimatedImage.deps.json
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/bin/Debug/netstandard2.0/AnimatedImage.dll
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/bin/Debug/netstandard2.0/ref/AnimatedImage.dll
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/bin/Debug/netstandard2.0/AnimatedImage.pdb
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/obj/Debug/netstandard2.0/AnimatedImage.dll
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/obj/Debug/netstandard2.0/ref/AnimatedImage.dll
+/Users/d048098/Sources/HomeWork/AnimatedImage/AnimatedImage/AnimatedImage/obj/Debug/netstandard2.0/AnimatedImage.pdb
